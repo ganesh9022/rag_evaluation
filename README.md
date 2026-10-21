@@ -65,9 +65,6 @@ pip install ragas openai pandas python-dotenv sentence-transformers torch jupyte
 
 These are the main packages used in the supplied notebook. Since RAGAS interfaces can change between versions, record tested versions after running successfully:
 
-```bash
-pip freeze > requirements.txt
-```
 
 **3. Create a `.env` file in the project folder:**
 
